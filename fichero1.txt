@@ -1,3 +1,1 @@
-Este es el contenido del fichero 1
-
-Este es el contenido del fichero 1 para realizar la pull requests
+Contenido para hacer la ultima parte de la actividad
